@@ -1,0 +1,1 @@
+{"id":"97d732fc-5e74-4e7d-a282-f36863ed0de6","space":19461,"runtime":"python3.9","name":"Lab4","path":"uyyshy","project":"c063im2p","account":"144798365827","region":"ap-southeast-1","deps":["fastapi","aiofiles","python-multipart"],"envs":null,"public":true,"log_level":"debug","cron":""}

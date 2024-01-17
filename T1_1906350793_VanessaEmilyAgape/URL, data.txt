@@ -1,0 +1,8 @@
+URL :
+http://infralabs.cs.ui.ac.id:20793/oauth/token
+http://infralabs.cs.ui.ac.id:20793/oauth/resource
+Data :
+username = vanessa.emily
+password = 123
+client_id = 7162
+client_secret = 1231
